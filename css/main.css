@@ -40,7 +40,8 @@ h1{
     background-repeat: no-repeat;
 }
 .experience-area{
-    margin: 5%;
+    height: 300px;
+    margin: 3%;
     box-shadow: 5px 07px 60px gray;
 }
 
@@ -58,4 +59,7 @@ h1{
     border-left: 7px solid;
     border-image: linear-gradient(rgb(204, 5, 98) orange);
     border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
